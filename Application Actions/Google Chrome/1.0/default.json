@@ -1,0 +1,11 @@
+{
+  "ButtonPress": "New Tab",
+  "SwipeLeft":   "Select Previous Tab",
+  "SwipeRight":  "Select Next Tab",
+  "SwipeUp":     "Select Previous Tab",
+  "SwipeDown":   "Select Next Tab",
+  "RotateLeft":  "Select Previous Tab",
+  "RotateRight": "Select Next Tab",
+  "FlyLeft":     "Select Previous Tab",
+  "FlyRight":    "Select Next Tab",
+}
