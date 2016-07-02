@@ -1,0 +1,11 @@
+{
+  "RotateLeft"	:   "Rewind",
+  "RotateRight"	:	"Fast Forward",
+  "ButtonPress"	:	"Play or Pause",
+  "SwipeUp"		:	"Increase Volume",
+  "SwipeDown"	:	"Decrease Volume",
+  "SwipeLeft"	:	"Previous",
+  "SwipeRight"	:	"Next",
+  "FlyLeft"		:	"Previous",
+  "FlyRight"	:	"Next"
+}
