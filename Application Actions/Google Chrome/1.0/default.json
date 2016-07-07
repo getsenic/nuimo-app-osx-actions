@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "ButtonPress"	:	"New Tab",
   "SwipeLeft"	:	"Select Previous Tab",
   "SwipeRight"	:	"Select Next Tab",
@@ -8,4 +9,15 @@
   "RotateRight"	:	"Scroll Up",
   "FlyLeft"		:	"Select Previous Tab",
   "FlyRight"	:	"Select Next Tab",
+=======
+  "ButtonPress": "New Tab",
+  "SwipeLeft":   "Select Previous Tab",
+  "SwipeRight":  "Select Next Tab",
+  "SwipeUp":     "Reopen Closed Tab",
+  "SwipeDown":   "Close Tab",
+  "RotateLeft":  "Go Back",
+  "RotateRight": "Go Forward",
+  "FlyLeft":     "Select Previous Tab",
+  "FlyRight":    "Select Next Tab",
+>>>>>>> getsenic/master
 }
