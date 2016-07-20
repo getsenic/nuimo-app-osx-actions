@@ -1,3 +1,3 @@
-tell application "System Events" to tell process "Pixelmator"
+tell application "System Events"
 	key code 78 using {command down}
 end tell
