@@ -1,6 +1,5 @@
 tell application "Google Chrome"
-	set numWindows to count (windows)
-	if numWindows is 0 then
+	if (count of windows) is 0 then
 		make new window
 	else
 		make new tab at end of tabs of window 1
