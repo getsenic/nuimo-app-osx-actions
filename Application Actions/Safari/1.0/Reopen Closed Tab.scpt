@@ -1,0 +1,1 @@
+tell application "System Events" to key code 6 using {command down}

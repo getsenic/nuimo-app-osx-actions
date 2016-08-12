@@ -1,7 +1,9 @@
 {
-  "ButtonPress": "Play or Pause",
-  "SwipeLeft":   "Previous Track",
-  "SwipeRight":  "Next Track",
-  "FlyLeft":     "Previous Track",
-  "FlyRight":    "Next Track"
+  "RotateLeft" : "Decrease Volume",
+  "RotateRight" : "Increse Volume",
+  "ButtonPress" : "Play or Pause",
+  "SwipeLeft" : "Previous Track",
+  "SwipeRight" : "Next Track",
+  "FlyLeft" : "Previous Track",
+  "FlyRight" : "Next Track"
 }

@@ -1,0 +1,1 @@
+tell application "System Events" to key code 33 using {command down, shift down}
