@@ -1,0 +1,11 @@
+{
+  "RotateLeft" : "Scroll Down",
+  "RotateRight" : "Scroll Up",
+  "ButtonPress" : "Toggle Block Comment",
+  "SwipeUp" : "Next File",
+  "SwipeDown" : "Previous File",
+  "SwipeLeft" : "Unindent",
+  "SwipeRight" : "Indent",
+  "FlyLeft" : "Previous File",
+  "FlyRight" : "Next File"
+}
