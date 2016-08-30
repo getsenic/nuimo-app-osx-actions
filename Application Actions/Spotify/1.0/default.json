@@ -1,6 +1,6 @@
 {
   "RotateLeft" : "Decrease Volume",
-  "RotateRight" : "Increse Volume",
+  "RotateRight" : "Increase Volume",
   "ButtonPress" : "Play or Pause",
   "SwipeLeft" : "Previous Track",
   "SwipeRight" : "Next Track",
