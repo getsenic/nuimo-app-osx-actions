@@ -1,0 +1,9 @@
+{
+  "RotateLeft" : "Decrease Volume",
+  "RotateRight" : "Increase Volume",
+  "ButtonPress" : "Play or Pause",
+  "SwipeLeft" : "Previous Track",
+  "SwipeRight" : "Next Track",
+  "FlyLeft" : "Previous Track",
+  "FlyRight" : "Next Track"
+}
