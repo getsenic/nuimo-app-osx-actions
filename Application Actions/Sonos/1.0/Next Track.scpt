@@ -1,5 +1,5 @@
 tell application "System Events"
 	tell process "Sonos"
-		click button 4 of window 1
+		keystroke (ASCII character 29) using command down
 	end tell
 end tell
