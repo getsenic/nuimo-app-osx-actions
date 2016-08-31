@@ -1,5 +1,5 @@
 tell application "System Events"
 	tell process "TIDAL"
-		keystroke " "
+		key code 49
 	end tell
 end tell
