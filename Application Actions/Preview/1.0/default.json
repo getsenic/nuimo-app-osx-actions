@@ -1,0 +1,9 @@
+{
+  "RotateLeft"  : "Scroll Down",
+  "RotateRight" : "Scroll Up",
+  "ButtonPress" : "Toggle Full Screen",
+  "SwipeUp"     : "Home",
+  "SwipeDown"   : "End",
+  "SwipeLeft"   : "Page Up",
+  "SwipeRight"  : "Page Down"
+}
