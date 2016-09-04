@@ -1,6 +1,6 @@
 {
-  "RotateLeft"  : "Scroll Down",
-  "RotateRight" : "Scroll Up",
+  "RotateLeft"  : "Scroll Up",
+  "RotateRight" : "Scroll Down",
   "ButtonPress" : "Toggle Block Comment",
   "SwipeUp"     : "Select Next File",
   "SwipeDown"   : "Select Previous File",

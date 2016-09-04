@@ -1,6 +1,6 @@
 {
-  "RotateLeft"  : "Scroll Down",
-  "RotateRight" : "Scroll Up",
+  "RotateLeft"  : "Scroll Up",
+  "RotateRight" : "Scroll Down",
   "SwipeUp"     : "Select Previous Pane",
   "SwipeDown"   : "Select Next Pane",
   "SwipeLeft"   : "Select Previous Tab",
