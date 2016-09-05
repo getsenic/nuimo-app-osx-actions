@@ -4,8 +4,8 @@
   "SwipeRight" : "Select Next Tab",
   "SwipeUp" : "Reopen Closed Tab",
   "SwipeDown" : "Close Tab",
-  "RotateLeft" : "Scroll Down",
-  "RotateRight" : "Scroll Up",
+  "RotateLeft" : "Scroll Up",
+  "RotateRight" : "Scroll Down",
   "FlyLeft" : "Select Previous Tab",
   "FlyRight" : "Select Next Tab",
 }

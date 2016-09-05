@@ -1,6 +1,6 @@
 {
-  "RotateLeft"  : "Scroll Down",
-  "RotateRight" : "Scroll Up",
+  "RotateLeft"  : "Scroll Up",
+  "RotateRight" : "Scroll Down",
   "ButtonPress" : "Toggle Full Screen",
   "SwipeUp"     : "Scroll To Beginning",
   "SwipeDown"   : "Scroll To End",
