@@ -1,0 +1,11 @@
+{
+  "ButtonPress" : "Fit on Screen",
+  "SwipeLeft" : "New File",
+  "SwipeRight" : "Export File As",
+  "SwipeUp" : "Open File",
+  "SwipeDown" : "Close File",
+  "RotateLeft" : "Zoom Out",
+  "RotateRight" : "Zoom In",
+  "FlyLeft" : "New File",
+  "FlyRight" : "Export File As",
+}
