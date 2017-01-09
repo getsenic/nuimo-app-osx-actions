@@ -1,0 +1,11 @@
+{
+  "ButtonPress" : "Add Page",
+  "SwipeLeft" : "New File",
+  "SwipeRight" : "Export",
+  "SwipeUp" : "Open File",
+  "SwipeDown" : "Close File",
+  "RotateLeft" : "Zoom Out",
+  "RotateRight" : "Zoom In",
+  "FlyLeft" : "New File",
+  "FlyRight" : "Export",
+}
