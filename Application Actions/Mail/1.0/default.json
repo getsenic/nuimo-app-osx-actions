@@ -1,0 +1,7 @@
+{
+  "ButtonPress" : "Get New Mail",
+  "SwipeUp"     : "New Message",
+  "SwipeDown"   : "Archive",
+  "SwipeLeft"   : "Reply",
+  "SwipeRight"  : "Forward"
+}
