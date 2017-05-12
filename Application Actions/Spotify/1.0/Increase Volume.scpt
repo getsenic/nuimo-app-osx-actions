@@ -1,8 +1,6 @@
 tell application "Spotify"
-	if (sound volume < 90) then
-		set the sound volume to (sound volume + 2)
-	else if (sound volume >= 90) and (sound volume <= 100) then
-		set the sound volume to (sound volume + 1)
-	end if
+	set newVolume to sound volume + 2
+	if newVolume is greater than 100 then return 100
+	set sound volume to newVolume
+	return newVolume / 100
 end tell
-

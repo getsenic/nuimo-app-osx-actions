@@ -1,3 +1,12 @@
-tell application "VLC"
-	step forward 1
-end tell
+tell application "VLC" to step forward 1
+
+return¬
+	"         " &¬
+	"         " &¬
+	"  *  *   " &¬
+	"  ** **  " &¬
+	"  ****** " &¬
+	"  ** **  " &¬
+	"  *  *   " &¬
+	"         " &¬
+	"         "

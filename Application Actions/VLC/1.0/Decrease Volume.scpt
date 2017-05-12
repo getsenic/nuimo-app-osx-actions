@@ -1,3 +1,12 @@
-tell application "VLC"
-	volumeDown
-end tell
+tell application "VLC" to volumeDown
+
+return¬
+	"         " &¬
+	"     *   " &¬
+	"    **   " &¬
+	"  ****   " &¬
+	"  ****   " &¬
+	"  ****   " &¬
+	"    **   " &¬
+	"     *   " &¬
+	"         "

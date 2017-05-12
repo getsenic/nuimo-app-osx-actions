@@ -1,1 +1,12 @@
-tell application "Spotify" to previous track
+tell application "Spotify" to previous track
+
+return¬
+    "         " &¬
+    "         " &¬
+    "   *  *  " &¬
+    "   * **  " &¬
+    "   ****  " &¬
+    "   * **  " &¬
+    "   *  *  " &¬
+    "         " &¬
+    "         "
