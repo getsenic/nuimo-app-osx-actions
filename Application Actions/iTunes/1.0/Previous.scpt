@@ -1,3 +1,12 @@
-tell application "iTunes"
-	previous track
-end tell
+tell application "iTunes" to previous track
+
+return¬
+    "         " &¬
+    "         " &¬
+    "   *  *  " &¬
+    "   * **  " &¬
+    "   ****  " &¬
+    "   * **  " &¬
+    "   *  *  " &¬
+    "         " &¬
+    "         "
