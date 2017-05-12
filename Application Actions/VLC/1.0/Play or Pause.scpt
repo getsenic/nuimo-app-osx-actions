@@ -1,3 +1,12 @@
-tell application "VLC"
-	play
-end tell
+tell application "VLC" to play
+
+return¬
+    "*        " &¬
+    "**     * " &¬
+    "***   *  " &¬
+    "**   *   " &¬
+    "*   *    " &¬
+    "   *  * *" &¬
+    "  *   * *" &¬
+    " *    * *" &¬
+    "      * *"

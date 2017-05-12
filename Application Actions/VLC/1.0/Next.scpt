@@ -1,3 +1,12 @@
-tell application "VLC"
-	next
-end tell
+tell application "VLC" to next
+
+return¬
+    "         " &¬
+    "         " &¬
+    "   *  *  " &¬
+    "   ** *  " &¬
+    "   ****  " &¬
+    "   ** *  " &¬
+    "   *  *  " &¬
+    "         " &¬
+    "         "

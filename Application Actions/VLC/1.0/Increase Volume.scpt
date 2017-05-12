@@ -1,3 +1,12 @@
-tell application "VLC"
-	volumeUp
-end tell
+tell application "VLC" to volumeUp
+
+return¬
+	"         " &¬
+	"     *   " &¬
+	"    **   " &¬
+	"  ****   " &¬
+	"  ****   " &¬
+	"  ****   " &¬
+	"    **   " &¬
+	"     *   " &¬
+	"         "

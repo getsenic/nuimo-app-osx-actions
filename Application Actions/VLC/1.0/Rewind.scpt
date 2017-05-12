@@ -1,3 +1,12 @@
-tell application "VLC"
-	step backward 1
-end tell
+tell application "VLC" to step backward 1
+
+return¬
+	"         " &¬
+	"         " &¬
+	"   *  *  " &¬
+	"  ** **  " &¬
+	" ******  " &¬
+	"  ** **  " &¬
+	"   *  *  " &¬
+	"         " &¬
+	"         "
