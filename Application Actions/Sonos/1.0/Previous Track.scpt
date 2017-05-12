@@ -1,5 +1,14 @@
 tell application "System Events"
-	tell process "Sonos"
-		key code 123 using command down
-	end tell
+	tell process "Sonos" to key code 123 using command down
 end tell
+
+return¬
+    "         " &¬
+    "         " &¬
+    "   *  *  " &¬
+    "   * **  " &¬
+    "   ****  " &¬
+    "   * **  " &¬
+    "   *  *  " &¬
+    "         " &¬
+    "         "
